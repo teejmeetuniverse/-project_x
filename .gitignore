@@ -1,0 +1,8 @@
+.DS_Store
+_venv
+_venv/*
+trends_tracker
+trends_tracker/*
+MY_README.md
+fetchtrending.py
+
